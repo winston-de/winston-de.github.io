@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 
-h1 {
+body {
     color: black;
 }
 
-.project-name {
+.page-header {
         color: #fff;
     text-align: center;
     background-color: blue;
