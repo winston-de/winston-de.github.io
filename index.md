@@ -10,8 +10,16 @@ Hey there, I'm an undergraduate student at Rose-Hulman institute of technology, 
 #### Blog:
 I enjoy writing about random topics I know too much and documenting some of my life experiences.
 
-#### [Files Community](https://files.community/)
+{% for post in site.posts %}
+<a href="{{ site.url }}{{ post.url }}">{{post.date}} | {{ post.title }}</a>
+{% endfor %}
+
+
+#### Files Community
 I spent a couple years as one of the lead developers on the Files for Windows project, and put countless hours into it. I take a ton of pride in the work I did on this project, and it's amazing to see how far it's come. 
+[Website](https://files.community/);
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=winston-de&repo=Simple-Times&title_color=87ceeb&text_color=87ceeb&bg_color=181818)](https://github.com/files-community/Files)
 
 #### Simple Times
 One of my old hobbies, back when I had free time, was developing watch faces for my Garmin smartwatch. Simple Times was fairly succesful. and I take a lot of pride in it. I no longer maintain it, so it's open sourced for others to play around with.
