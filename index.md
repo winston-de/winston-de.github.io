@@ -1,16 +1,28 @@
-![](https://github-readme-stats.vercel.app/api?username=winston-de&show_icons=true&title_color=87ceeb&text_color=87ceeb&bg_color=181818)
+---
+title: "Winston de Jong"
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=winston-de&layout=compact&title_color=87ceeb&text_color=87ceeb&bg_color=181818)
+### About me:
+Hey there, I'm an undergraduate student at Rose-Hulman institute of technology, studying Electrical Engineers with minors in Computer Science and Robotics. Hoping to find a career where I can make a difference in people's lives.
 
 ### Projects:
 
+#### Blog:
+I enjoy writing about random topics I know too much and documenting some of my life experiences.
+
+#### [Files Community](https://files.community/)
+I spent a couple years as one of the lead developers on the Files for Windows project, and put countless hours into it. I take a ton of pride in the work I did on this project, and it's amazing to see how far it's come. 
+
+#### Simple Times
+One of my old hobbies, back when I had free time, was developing watch faces for my Garmin smartwatch. Simple Times was fairly succesful. and I take a lot of pride in it. I no longer maintain it, so it's open sourced for others to play around with.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=winston-de&repo=Simple-Times&title_color=87ceeb&text_color=87ceeb&bg_color=181818)](https://github.com/winston-de/Simple-Times)
+
+
 #### Brick Breaker
-A simple brick breaker game I made for my programming class
+A simple brick breaker game I made for my programming class years ago. Not very impressive, but I had fun making it. 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=winston-de&repo=Brick-Breaker&title_color=87ceeb&text_color=87ceeb&bg_color=181818)
 ![](\assets\images\brickbreakergame.png)
 
-[Try it out here!](/Brick-Breaker/)
-
-#### Simple Times
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=winston-de&repo=Simple-Times&title_color=87ceeb&text_color=87ceeb&bg_color=181818)](https://github.com/winston-de/Simple-Times)
+[Try it out here!](/Brick-Breaker/) 
