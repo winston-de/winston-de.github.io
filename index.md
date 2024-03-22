@@ -16,7 +16,7 @@ I enjoy writing about random topics I know too much and documenting some of my l
 
 #### Scratch:
 
-{% for sc in site.curriculumsc %}
+{% for sc in site.curriculum_sc %}
 <h4><a href="{{ site.url }}{{ sc.url }}">{{ sc.title }}</a></h4>
 <p>{{ sc.description }}</p>
 

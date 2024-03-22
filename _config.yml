@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Winston de Jong
 description: This is my personal site where I will post my projects and contributions
+collections:
+  curriculum_sc:
+    output: true
+    sort_by: l_number
