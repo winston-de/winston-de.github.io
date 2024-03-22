@@ -3,6 +3,7 @@ title: "Dino nom"
 description: "Simple Scratch project intended to teach students clones, variables, and broadcasting"
 date: 2024-02-19
 l_number: 1
+layout: default
 ---
 
 
