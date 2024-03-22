@@ -5,15 +5,25 @@ title: "Winston de Jong"
 ### About me:
 Hey there, I'm an undergraduate student at Rose-Hulman institute of technology, studying Electrical Engineers with minors in Computer Science and Robotics. Hoping to find a career where I can make a difference in people's lives.
 
-### Projects:
-
-#### Blog:
+### Blog:
 I enjoy writing about random topics I know too much and documenting some of my life experiences.
 
 {% for post in site.posts %}
 <a href="{{ site.url }}{{ post.url }}">{{post.date | date: "%-d %B %Y" }} | {{ post.title }}</a>
 {% endfor %}
 
+### Curriculum:
+
+#### Scratch:
+
+{% for sc in site.curriculum_sc %}
+<h4><a href="{{ site.url }}{{ sc.url }}">{{ sc.title }}</a></h4>
+<p>{{ sc.description }}</p>
+
+{% endfor %}
+
+
+### Projects:
 
 #### Files Community
 I spent a couple years as one of the lead developers on the Files for Windows project, and put countless hours into it. I take a ton of pride in the work I did on this project, and it's amazing to see how far it's come. 
