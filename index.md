@@ -2,6 +2,7 @@
 title: "Winston de Jong"
 ---
 
+
 ### About me:
 Hey there, I'm an undergraduate student at Rose-Hulman institute of technology, studying Electrical Engineers with minors in Computer Science and Robotics. Hoping to find a career where I can make a difference in people's lives.
 
