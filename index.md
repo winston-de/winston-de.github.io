@@ -4,10 +4,15 @@ title: "Winston de Jong"
 
 
 ### About me:
-Hey there, I'm an undergraduate student at Rose-Hulman institute of technology, studying Computer Engineering a minor in Computer Science. Hoping to find a career where I can make a difference in people's lives.
-
+Hey there, I'm an aspiring controls engineer with a degree in Computer Engineering and minor in computer science. I am currently working as a Automation Technician, where I maintain automated packing and sorting equipment controlled by an Alan Bradley PLC.
 
 ### Projects:
+
+#### Live LA Metro Map
+A live map of the Los Angeles Metro rail system, showing the current position of trains. This map is printed directly on a PCB, which I designed and assembled myself. It is controlled by an ESP32 programmed using ESP-IDF, which polls the Metro GTFS API and parses the data.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=winston-de&repo=la_metro_live&title_color=87ceeb&text_color=87ceeb&bg_color=181818)](https://github.com/winston-de/la_metro_live/tree/main)
+
 
 #### Files Community
 I spent a couple years as a lead developer on this project, during which I obtained and triaged feedback from clients on bugs they encountered and features they wanted, and tested and approved contributions made by other developers. I also debugged and fixed bugs reported by users, totaling hundreds of merged pull requests, and spearheaded the development of many features.
